@@ -14,3 +14,4 @@
 | [Week 10](week-10) | [Lecture](week-10/lecture) | [Seminar](week-10/seminar) | [Lab](week-10/lab) |
 | [Week 11](week-11) | [Lecture](week-11/lecture) | [Seminar](week-11/seminar) | [Lab](week-11/lab) |
 | [Week 12](week-12) | [Lecture](week-12/lecture) | [Seminar](week-12/seminar) | [Lab](week-12/lab) |
+This is a test 2
