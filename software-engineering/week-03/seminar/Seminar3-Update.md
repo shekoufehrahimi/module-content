@@ -1,6 +1,6 @@
-# Software Development 2 Seminar 03 -- Team Session
+# Software Engineering Seminar 03 -- Team Session
 
-Use your seminar time to work with your team and prepare for the Sprint 1 hand-in (which will be reviewed next week).
+Use your seminar time to work with your team and prepare for the Sprint 1 hand-in.
 
 The brief for Sprint 1 is:
 
@@ -8,18 +8,14 @@ The aim of this Sprint is to check that the project workflow is set up for the t
 
 Submission requirements for this Sprint:
 
-- An overview of your application idea your team want to design and develop.
-- The purpose of the application 
-- The intended users of the application identified and explored via at least 2 'personas'.
+- GitHub project for coursework set-up
+- Product Backlog created 
+- Dockerfile for project set-up and works
 - The technical foundations for teamwork established ie:
   - [ ] GitHub project for coursework created.
   - [ ] Task board created.
   - [ ] Code of Conduct defined.
 Links to your github repo and taskboard should be in your documentation submitted.
-
-
-__Remember... 'Less is more' !!  If you can describe your project succinctly, you will better be able to build it!__
-
 
 
 ## Activity
@@ -40,7 +36,7 @@ Three or four 'how can we...' questions should cover the purposes of your projec
 
 Example:
 
-(For my case study - coffee shop rating site)
+(For case study - coffee shop rating site)
 
 1. How can we help people find good coffee shops in a particular town?
 2. How can we enable keen coffee drinkers to rate coffee shops?
