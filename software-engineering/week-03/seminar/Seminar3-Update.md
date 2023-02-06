@@ -13,9 +13,8 @@ Submission requirements for this Sprint:
 - Dockerfile for project set-up and works
 - The technical foundations for teamwork established ie:
   - [ ] GitHub project for coursework created.
-  - [ ] Task board created.
   - [ ] Code of Conduct defined.
-Links to your github repo and taskboard should be in your documentation submitted.
+Links to your github repo should be in your documentation submitted.
 
 
 ## Activity
