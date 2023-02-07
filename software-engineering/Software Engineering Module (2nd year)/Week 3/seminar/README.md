@@ -1,6 +1,6 @@
 # Seminar 03 -- Team Session
 
-Use your seminar time to work with your team and prepare for the Sprint 1 hand-in (which will be reviewed next week).
+Use your seminar time to work with your team and prepare for the Sprint 1 hand-in.
 
 The brief for Sprint 1 is:
 
